@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Krishna_View</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-23 19:23:04</sys_created_on>
+        <sys_id>c5b71bf9c3d62a10f5a212d4e401310e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Krishna View</sys_name>
+        <sys_package display_value="Loaner Request" source="x_1764419_loaner_r">13b9eebdc3d22a10f5a212d4e4013137</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">13b9eebdc3d22a10f5a212d4e4013137</sys_scope>
+        <sys_update_name>sys_ui_view_c5b71bf9c3d62a10f5a212d4e401310e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-23 19:23:04</sys_updated_on>
+        <title>Krishna View</title>
+        <user/>
+    </sys_ui_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">13b9eebdc3d22a10f5a212d4e4013137</application>
+        <file_path/>
+        <instance_id>c57db089eb474e10cbdefceacad0cd77</instance_id>
+        <instance_name>dev276478</instance_name>
+        <name>sys_ui_view_c5b71bf9c3d62a10f5a212d4e401310e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view"><sys_ui_view action="INSERT_OR_UPDATE"><group/><hidden>false</hidden><name>Krishna_View</name><roles/><sys_class_name>sys_ui_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-23 19:23:04</sys_created_on><sys_id>c5b71bf9c3d62a10f5a212d4e401310e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Krishna View</sys_name><sys_package display_value="Loaner Request" source="x_1764419_loaner_r">13b9eebdc3d22a10f5a212d4e4013137</sys_package><sys_policy/><sys_scope display_value="Loaner Request">13b9eebdc3d22a10f5a212d4e4013137</sys_scope><sys_update_name>sys_ui_view_c5b71bf9c3d62a10f5a212d4e401310e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-23 19:23:04</sys_updated_on><title>Krishna View</title><user/></sys_ui_view></record_update>]]></payload>
+        <payload_hash>1721569309</payload_hash>
+        <record_name>Krishna View</record_name>
+        <reverted_from/>
+        <source>64827eb9c3162a10f5a212d4e4013106</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-23 19:23:04</sys_created_on>
+        <sys_id>8db71bf9c3d62a10f5a212d4e4013181</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1979e3e7b570000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-23 19:23:04</sys_updated_on>
+        <type>UI View</type>
+        <update_guid>41b71bf927d62a107c2f4e133f0fad81</update_guid>
+        <update_guid_history>41b71bf927d62a107c2f4e133f0fad81:1721569309</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-23 19:35:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>94ff8fc835f342999ff1758a46c04f91</sys_id>
+        <sys_metadata>c5b71bf9c3d62a10f5a212d4e401310e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Krishna View</sys_name>
+        <sys_package display_value="Loaner Request" source="x_1764419_loaner_r">13b9eebdc3d22a10f5a212d4e4013137</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">13b9eebdc3d22a10f5a212d4e4013137</sys_scope>
+        <sys_scope_delete display_value="">39c59f8b4fcd440f83973af595d80b99</sys_scope_delete>
+        <sys_update_name>sys_ui_view_c5b71bf9c3d62a10f5a212d4e401310e</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_c5b71bf9c3d62a10f5a212d4e401310e">8db71bf9c3d62a10f5a212d4e4013181</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-23 19:35:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
