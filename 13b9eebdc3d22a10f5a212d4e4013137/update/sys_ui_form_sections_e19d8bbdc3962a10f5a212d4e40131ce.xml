@@ -17,30 +17,44 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-28 03:10:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aa09a5d3c396ee10f5a212d4e40131c8</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1764419_loaner_r_loaner_request" name="x_1764419_loaner_r_loaner_request" sys_domain="global" view="Default view">e19d8bbdc3962a10f5a212d4e40131ce</sys_ui_form>
+            <sys_ui_section caption="Reminders" display_value="Reminders" name="x_1764419_loaner_r_loaner_request" sys_domain="global" view="Default view">260965d3c396ee10f5a212d4e40131fd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-28 03:10:27</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
             <sys_created_on>2025-06-23 20:04:11</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>af11a7f5c31a2a10f5a212d4e4013128</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_1764419_loaner_r_loaner_request" name="x_1764419_loaner_r_loaner_request" sys_domain="global" view="Default view">e19d8bbdc3962a10f5a212d4e40131ce</sys_ui_form>
             <sys_ui_section caption="Log" display_value="Log" name="x_1764419_loaner_r_loaner_request" sys_domain="global" view="Default view">af11a7f5c31a2a10f5a212d4e4013125</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-06-23 20:04:11</sys_updated_on>
+            <sys_updated_on>2025-06-28 03:10:27</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2025-06-23 20:04:12</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>fb11a7f5c31a2a10f5a212d4e401319c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_1764419_loaner_r_loaner_request" name="x_1764419_loaner_r_loaner_request" sys_domain="global" view="Default view">e19d8bbdc3962a10f5a212d4e40131ce</sys_ui_form>
             <sys_ui_section caption="Statistics" display_value="Statistics" name="x_1764419_loaner_r_loaner_request" sys_domain="global" view="Default view">ef11a7f5c31a2a10f5a212d4e4013126</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-06-23 20:04:12</sys_updated_on>
+            <sys_updated_on>2025-06-28 03:10:27</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_1764419_loaner_r_loaner_request</name>

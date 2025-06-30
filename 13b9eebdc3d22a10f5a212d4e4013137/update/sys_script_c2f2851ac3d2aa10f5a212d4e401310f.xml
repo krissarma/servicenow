@@ -27,11 +27,11 @@
         <rest_service_text/>
         <rest_variables/>
         <role_conditions/>
-        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/ ) {
 
-	// Add your code here
-	g_scratchpad.city = current.requested_for.city;
-	g_scratchpad.country = current.requested_for.country;
+    // Add your code here
+    g_scratchpad.city = current.requested_for.city;
+    g_scratchpad.country = current.requested_for.country;
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -39,7 +39,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c2f2851ac3d2aa10f5a212d4e401310f</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Set Scratchpad Values</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_1764419_loaner_r">13b9eebdc3d22a10f5a212d4e4013137</sys_package>
@@ -47,7 +47,7 @@
         <sys_scope display_value="Loaner Request">13b9eebdc3d22a10f5a212d4e4013137</sys_scope>
         <sys_update_name>sys_script_c2f2851ac3d2aa10f5a212d4e401310f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-06-24 22:18:01</sys_updated_on>
+        <sys_updated_on>2025-06-26 00:55:22</sys_updated_on>
         <template/>
         <when>before_display</when>
     </sys_script>

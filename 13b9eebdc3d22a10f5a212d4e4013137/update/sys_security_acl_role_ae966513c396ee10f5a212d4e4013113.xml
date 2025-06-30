@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-28 02:59:48</sys_created_on>
+        <sys_id>ae966513c396ee10f5a212d4e4013113</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sample scritp include.x_1764419_loaner_r.admin</sys_name>
+        <sys_package display_value="Loaner Request" source="x_1764419_loaner_r">13b9eebdc3d22a10f5a212d4e4013137</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">13b9eebdc3d22a10f5a212d4e4013137</sys_scope>
+        <sys_security_acl display_value="sample scritp include">e696695fc356ee10f5a212d4e4013116</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ae966513c396ee10f5a212d4e4013113</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-28 02:59:48</sys_updated_on>
+        <sys_user_role display_value="x_1764419_loaner_r.admin" name="x_1764419_loaner_r.admin">34ebb266c3122e10f5a212d4e4013165</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
